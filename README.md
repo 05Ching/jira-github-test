@@ -2,3 +2,6 @@
 jira-github-test
 # Jira GitHub Integration Test
 Update for STUD-23
+
+Update for STUD-10 (test integration with Jira)
+
